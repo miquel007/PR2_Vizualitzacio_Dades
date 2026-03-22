@@ -43,11 +43,18 @@ pip install -r requirements.txt
 ## Resultats
 
 ### Pie Chart
-![Pie Chart](pie_chart.png)
+<p align="center">
+  <img src="pie_chart.png" width="400"/>
+</p>
 
 ### Voronoi
-![Voronoi](voronoi_map.png)
+<p align="center">
+  <img src="voronoi_map.png" width="500"/>
+</p>
+
 
 ### Convex Hull
-![Convex Hull](convex_hull_map.png)
+<p align="center">
+    <img src="convex_hull_map.png" width="500"/>
+</p>
 
