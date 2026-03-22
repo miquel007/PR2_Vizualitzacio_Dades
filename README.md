@@ -1,4 +1,4 @@
-# PR2_Vizualitzaci-_Dades
+# PR2_Vizualitzacio_Dades
 
 ## Descripció
 Aquest projecte forma part de la PAC2 de l’assignatura de Visualització de Dades. L’objectiu és explorar i aplicar diferents tècniques de visualització utilitzant dades reals.
