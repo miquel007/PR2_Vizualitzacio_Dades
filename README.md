@@ -49,5 +49,5 @@ pip install -r requirements.txt
 ![Voronoi](voronoi_map.png)
 
 ### Convex Hull
-![Convex Hull](convex_hull.png)
+![Convex Hull](convex_hull_map.png)
 
